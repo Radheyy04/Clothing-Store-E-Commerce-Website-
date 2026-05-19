@@ -31,7 +31,7 @@ e-commerce website/
 - **Men's Fashion** — Curated men's clothing with pricing
 - **Women's Fashion** — Women's clothing section
 - **Accessories** — Dedicated accessories listing
-- ℹ**About Page** — Brand story and info
+- **About Page** — Brand story and info
 - **Cart UI** — Cart icon with badge counter in the navbar
 - **Fully Responsive** — Mobile-first layout using Bootstrap 5 grid
 
