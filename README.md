@@ -1,59 +1,38 @@
-## E-Commerce Website
+# Clothing Factory — E-Commerce Website
 
-A fully responsive e-commerce frontend built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. This is a static frontend project showcasing a modern online clothing store with multiple product category pages.
-
----
-
-## Project Structure
-
-```
-e-commerce website/
-├── index.html          # Homepage with product listings
-├── about.html          # About page
-├── categories.html     # All product categories
-├── men.html            # Men's fashion page
-├── women.html          # Women's fashion page
-├── accessories.html    # Accessories page
-├── css/
-│   └── styles.css      # Custom styles (includes Bootstrap theme)
-├── js/
-│   └── scripts.js      # Custom JavaScript
-└── assets/
-    └── favicon.ico     # Site favicon
-```
-
----
+Clothing Factory is a fully responsive frontend fashion e-commerce website built using Bootstrap, HTML, CSS, and JavaScript. The project features category browsing, dynamic product pages, filtering, and a client-side shopping cart using localStorage.
 
 ## Features
 
-- **Homepage** — Hero banner, product grid with Add to Cart buttons
-- **Categories Page** — Browse by Men, Women, and Accessories
-- **Men's Fashion** — Curated men's clothing with pricing
-- **Women's Fashion** — Women's clothing section
-- **Accessories** — Dedicated accessories listing
-- **About Page** — Brand story and info
-- **Cart UI** — Cart icon with badge counter in the navbar
-- **Fully Responsive** — Mobile-first layout using Bootstrap 5 grid
+- Responsive multi-page design
+- Product filtering
+- Dynamic product pages
+- Add to Cart functionality
+- Cart data stored using localStorage
+- Related products section
+- Modern UI with hover effects
 
----
+## Pages
+
+- Home
+- About
+- Categories
+- Product Detail
+- Men's Fashion
+- Women's Fashion
+- Accessories
+
 
 ## Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Page structure and content |
-| CSS3 | Custom styling |
-| JavaScript (Vanilla) | Interactivity |
-| Bootstrap 5.2.3 | Responsive layout, components |
-| Bootstrap Icons | Icon library |
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Bootstrap Icons
 
-## Pages Overview
+## How to Run
 
-| Page | File | Description |
-|---|---|---|
-| Home | `index.html` | Main landing page with product grid |
-| About | `about.html` | Brand information |
-| Categories | `categories.html` | Product category overview |
-| Men | `men.html` | Men's clothing products |
-| Women | `women.html` | Women's clothing products |
-| Accessories | `accessories.html` | Accessories listing |
+Open `index.html` in any browser.
+
+No installation or setup required.
